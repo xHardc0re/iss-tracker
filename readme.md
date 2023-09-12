@@ -40,7 +40,7 @@ git clone https://github.com/xHardc0re/iss-tracker.git
 
 ## License
 
-This project is licensed under the \[MIT License\](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
